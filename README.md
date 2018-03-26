@@ -25,12 +25,14 @@ Show the links by their categories. Each link will be a snapshot of the url with
 * Fancy layout
 
 ## Install instruction
+* Download the demo package from http://zhlio.com/documents/vlinkdemo.zip
+
 * You must have Node.js installed on your computer.
 
-* Unzip the tfdemo.zip and you will see the folder tfdemo.
+* Unzip the vlinkdemo.zip and you will see the folder vlinkdemo.
 
-* In the terminal, go to the tfdemo folder and run `npm install`.
+* In the terminal, go to the vlinkdemo folder and run `npm install`.
 
 * Then, run `node index.js` .
 
-* In the browser’s address, input http://localhost:5000/ and you will see it.
+* In the browser’s address, input http://localhost:8000/ and you will see it.
