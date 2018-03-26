@@ -25,8 +25,12 @@ Show the links by their categories. Each link will be a snapshot of the url with
 * Fancy layout
 
 ## Install instruction
-1.You must have Node.js installed on your computer.
-2.Unzip the vlinkdemo.zip and you will see the folder tfdemo.
-3.In the terminal, go to the tfdemo folder and run `npm install`.
-4.Then, run `node index.js` .
-5.In the browser’s address, input http://localhost:8000/ and you will see it.
+* You must have Node.js installed on your computer.
+
+* Unzip the tfdemo.zip and you will see the folder tfdemo.
+
+* In the terminal, go to the tfdemo folder and run `npm install`.
+
+* Then, run `node index.js` .
+
+* In the browser’s address, input http://localhost:5000/ and you will see it.
