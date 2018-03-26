@@ -9,13 +9,13 @@ Vlink is a mini app which can covert website url to a Snapshot and save on your 
 
 ## The features Vlink Demo Version has and operation instruction
 * Top Menu
-Choose existing categories and add link to it. :(left-top Conner <select> and the middle AddLink <button>)
-Create Categories : (Right-top Conner <button>)
+Choose existing categories and add link to it.left-top Conner <select> and the middle AddLink <button>
+Create Categories : Right-top Conner <button>
 * Left Sidebar
-Reset the content to initial content and wipe the localStorage :(First button of the Sidebar)
-Homepage, demo, etc buttons will help you filter the link list. ( The second and more buttons of the Sidebar )
+Reset the content to initial content and wipe the localStorage :First button of the Sidebar
+Homepage, demo, etc buttons will help you filter the link list.The second and more buttons of the Sidebar
 * Link List
-Show the links by their categories. Each link will be a snapshot of the url with a logo, title and website description(if it has)
+Show the links by their categories. Each link will be a snapshot of the url with a logo, title and website description.
 
 ## What this Demo Version doesn’t have
 * Saving links to online database
